@@ -1,0 +1,33 @@
+TCM symptom,MM symptom,Sab,Target count,Classification,Syndrome type
+Shui Zhong Gu Zhang,"Anasarca, Edema",-0.109787003,256,TCM symptom,syndrome of liver-kidney yin deficiency
+syndrome of liver depression and spleen deficiency,,-0.02836137,1412,syndrome,syndrome of liver depression and spleen deficiency
+syndrome of liver heat and blood stasis,,0.008062729,441,syndrome,syndrome of liver heat and blood stasis
+syndrome of spleen deficiency and dampness stagnation,,0.011633135,1303,syndrome,syndrome of spleen deficiency and dampness stagnation
+Da Bian Mi Jie,"Constipation, Defecation Pain, Colonic Inertia",0.027500247,365,TCM symptom,syndrome of liver-gallbladder dampness heat
+Shen Pi,"Fatigue, Exhaustion, Lassitude",0.079917981,238,TCM symptom,syndrome of spleen deficiency and dampness stagnation
+syndrome of liver-kidney yin deficiency,,0.082560668,1037,syndrome,syndrome of liver-kidney yin deficiency
+Da Bian Bu Shuang,Defecation Pain,0.123439611,192,TCM symptom,syndrome of liver-gallbladder dampness heat
+Pi Fu Gan Zao,"Eczema Asteatotic, Dry Skin",0.25550245,104,TCM symptom,syndrome of liver heat and blood stasis
+Ou E,"Emesis, Gagging",0.281612549,124,TCM symptom,syndrome of liver-gallbladder dampness heat
+Shi Shao Fu Zhang,Abdomen Distention,0.293371699,61,TCM symptom,syndrome of liver depression and spleen deficiency
+Wan Fu Zhang Men,Abdomen Distention,0.293371699,61,TCM symptom,syndrome of liver depression and spleen deficiency
+Xiong Wan Pi Men,Abdomen Distention,0.293371699,61,TCM symptom,syndrome of liver-gallbladder dampness heat
+Xie Lei Zhang Tong,Abdomen Distention,0.293371699,61,TCM symptom,syndrome of liver-gallbladder dampness heat
+Wan Fu Zhang Man,Abdomen Distention,0.293371699,61,TCM symptom,syndrome of spleen deficiency and dampness stagnation
+Huang Dan,Jaundice,0.307790195,111,TCM symptom,syndrome of liver depression and spleen deficiency
+Pi Fu Huang Ran,Jaundice,0.307790195,111,TCM symptom,syndrome of liver-gallbladder dampness heat
+Chuan Cu,Bronchial Asthma,0.317246215,45,TCM symptom,syndrome of liver-kidney yin deficiency
+Gan Fu Shui,Ascites,0.333426644,53,TCM symptom,syndrome of liver depression and spleen deficiency
+Xia Zhi Fu Zhong,"Edema Legs, Lower Extremity Edema",0.341855639,55,TCM symptom,syndrome of liver depression and spleen deficiency
+E Xin,No Vomiting,0.381836568,16,TCM symptom,syndrome of spleen deficiency and dampness stagnation
+Kou Gan,Xerostomia,0.397742254,47,TCM symptom,syndrome of liver depression and spleen deficiency
+Kou Gan,Xerostomia,0.397742254,47,TCM symptom,syndrome of liver heat and blood stasis
+Kou Gan,Xerostomia,0.397742254,47,TCM symptom,syndrome of liver-kidney yin deficiency
+She Hong,Glossitis,0.413641241,5,TCM symptom,syndrome of liver-kidney yin deficiency
+syndrome of liver-gallbladder dampness heat,,0.429812357,59,syndrome,syndrome of liver-gallbladder dampness heat
+Xing Ti Xiao Shou,Emaciation,0.577556336,6,TCM symptom,syndrome of liver-kidney yin deficiency
+Na Dai,Decreased Appetite,0.611670886,9,TCM symptom,syndrome of liver-gallbladder dampness heat
+Na Dai,Decreased Appetite,0.611670886,9,TCM symptom,syndrome of spleen deficiency and dampness stagnation
+Na Dai,Decreased Appetite,0.611670886,9,TCM symptom,syndrome of liver-kidney yin deficiency
+Fa Li,Asthenia,1.436433486,3,TCM symptom,syndrome of liver depression and spleen deficiency
+Fa Li,Asthenia,1.436433486,3,TCM symptom,syndrome of spleen deficiency and dampness stagnation
